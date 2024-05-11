@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Code\Rust\grpc-tutorial\target\debug\build\prost-build-0e2e5f83b9636c0b\out\build\CMakeFiles\075fabfc47483b8e158f09f89e4b0292\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{24E4D634-15F9-30CC-A6DA-F63D05626441}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+prefix=D:/Code/Rust/grpc-tutorial/target/debug/build/prost-build-3f0208f09ada5f7f/out
+exec_prefix=D:/Code/Rust/grpc-tutorial/target/debug/build/prost-build-3f0208f09ada5f7f/out
+libdir=D:/Code/Rust/grpc-tutorial/target/debug/build/prost-build-3f0208f09ada5f7f/out/lib
+includedir=D:/Code/Rust/grpc-tutorial/target/debug/build/prost-build-3f0208f09ada5f7f/out/include
+
+Name: Protocol Buffers
+Description: Google's Data Interchange Format
+Version: 3.19.4.0
+Libs: -L${libdir} -lprotobuf-lite 
+Cflags: -I${includedir}
+Conflicts: protobuf
